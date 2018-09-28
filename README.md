@@ -14,6 +14,7 @@ Lily Bodolay
 Lesson 3: This lesson examines version/source control and why application developers find it essential to managing application development. 
 
 ## View Project
+https://lbodolay.github.io/lesson3-VersionControl/
 
 
 ## Lessons Learned in the Assignment:
